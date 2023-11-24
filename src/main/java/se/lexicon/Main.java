@@ -9,7 +9,7 @@ public class Main {
         //exercise_4();
         //exercise_5();
         //exercise_6();
-        exercise_7();
+        //exercise_7();
         exercise_8();
         exercise_9();
         exercise_10();
@@ -50,7 +50,11 @@ public class Main {
 
     }
     public static void exercise_7() {
+    String number = "20";
+    number =number.concat("20");
+        System.out.println(number);
 
+    
     }
     public static void exercise_8() {
 
